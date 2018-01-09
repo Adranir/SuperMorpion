@@ -4,7 +4,7 @@
     createCanvas(windowWidth, windowHeight);
     textSize(32);
     textAlign(CENTER);
-    text('SuperMorpion !', (width / 2), 50);
+    text('Test !', (width / 2), 50);
     translate(width / 2, height / 2);
     noFill();
     rectMode(CENTER);
