@@ -1,2 +1,2 @@
-# SuperMorpion
-Play it at this link : adranir.github.io/supermorpion/
+# Gwetamatri
+Play it at this link : https://adranir.github.io/gwetamatri/
